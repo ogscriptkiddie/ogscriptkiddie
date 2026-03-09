@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 About Me:<br><br>🚀 I’m currently working on<br>Building my cybersecurity portfolio with hands-on projects like Elastic SIEM labs, network audits, and intrusion detection systems.<br><br>🤝 I’m looking to collaborate on<br>Cybersecurity research, penetration testing, and CTF challenges.<br><br>🛠 I’m looking for help with<br>Advanced threat detection techniques and mastering SIEM tools.<br><br>🌱 I’m currently learning<br>EC CCT, SIEM configurations, and ethical hacking methodologies from TryHackMe.<br><br>💬 Ask me about<br>Cybersecurity, network security, IT service desk operations, and troubleshooting.<br><br>⚡ Fun fact<br>I enjoy long drives, trying out new food spots, and binge-watching mystery/thriller shows!
 
 
@@ -14,5 +14,4 @@ About Me:<br><br>🚀 I’m currently working on<br>Building my cybersecurity po
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ogscriptkiddie&layout=compact&theme=dark&hide_border=false)
 ---
-![Visitors](https://visitcount.itsvg.in/api?id=ogscriptkiddie&icon=0&color=0)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fogscriptkiddie&count_bg=%2379C0FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
