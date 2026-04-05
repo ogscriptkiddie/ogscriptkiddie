@@ -33,7 +33,7 @@ I work in a multi-client MSP environment managing security tooling across enterp
 | Project | Description | Stack |
 |---|---|---|
 | **[tanishr.dev](https://tanishr.dev)** | Cinematic cybersecurity portfolio with 3D holographic avatar | Three.js · WebGL · JS |
-| **ToS Guard** | Chrome extension that analyzes Terms of Service docs for privacy risk across 8 domains | Claude API · JS · Chrome Extensions |
+| **ClauseGuard** | Chrome extension that analyzes Terms of Service docs for privacy risk across 8 domains | Claude API · JS · Chrome Extensions |
 | **Elastic SIEM Lab** | Self-hosted SIEM with custom detection rules, dashboards, and alert pipelines | Elastic Stack · Kibana · Logstash |
 | **NIDS** | Network Intrusion Detection System built from scratch for home lab | Python · Scapy · Suricata |
 | **Home Network Security Audit** | Full audit of a residential network — topology mapping, vulnerability assessment, hardening | Nmap · Wireshark · Nessus |
